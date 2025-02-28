@@ -1,0 +1,22 @@
+Start building sites … 
+hugo v0.96.0-2fd4a7d3d6845e75f8b8ae3a2a7bd91438967bbb+extended linux/amd64 BuildDate=2022-03-26T09:15:58Z VendorInfo=gohugoio
+
+                   | EN   
+-------------------+------
+  Pages            |   7  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     | 547  
+  Processed images |   0  
+  Aliases          |   2  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Built in 130 ms
+Watching for changes in /home/student-04-aaacaf5cd3ee/my_hugo_site/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/student-04-aaacaf5cd3ee/my_hugo_site/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:8080/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
